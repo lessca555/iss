@@ -1,5 +1,5 @@
 @extends('layout.app')
-@section('title', 'Christian')
+@section('title', 'Indoswakarya Solusi')
 
 @section('content')
     <!-- Hero section -->
